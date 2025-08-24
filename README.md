@@ -1,9 +1,10 @@
-# MS-Excel-Project
+#  KPMG Data Analysis using MS Excel
 This project aims to analyze customer demographics, transactions, and new customer data to provide insights into business performance and customer behavior.
 
 # Repository Structure
 
-Data: <a.href "https://github.com/Ipsita-9861/MS-Excel-Project/blob/main/KPMG%20Dataset.xlsx"</a>
+Data: https://github.com/Ipsita-9861/MS-Excel-Project/blob/main/KPMG%20Dataset.xlsx <be />
+Project Details: https://github.com/Ipsita-9861/MS-Excel-Project/blob/main/KPMG%20Project%20Details.pdf
 
 # Key Insights: -  
 
