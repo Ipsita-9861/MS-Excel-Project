@@ -3,7 +3,7 @@ This project aims to analyze customer demographics, transactions, and new custom
 
 # Repository Structure
 
-Data: https://github.com/Ipsita-9861/MS-Excel-Project/blob/main/KPMG%20Dataset.xlsx <be />
+Data: https://github.com/Ipsita-9861/MS-Excel-Project/blob/main/KPMG%20Dataset.xlsx <br />
 Project Details: https://github.com/Ipsita-9861/MS-Excel-Project/blob/main/KPMG%20Project%20Details.pdf
 
 # Key Insights: -  
